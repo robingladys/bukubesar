@@ -2,21 +2,12 @@
   "transactions": [
     {
       "date": "2025-10-17",
-      "description": "Belanja bahan kue",
-      "category": "Biaya Operasional",
-      "type": "credit",
-      "amount": 2500000,
-      "id": 2,
-      "balance": -2500000
-    },
-    {
-      "date": "2025-10-17",
       "description": "Beli mixer industri",
       "category": "Pembelian Aset",
       "type": "credit",
       "amount": 6000000,
       "id": 3,
-      "balance": -8500000
+      "balance": -6000000
     },
     {
       "date": "2025-10-17",
@@ -25,7 +16,7 @@
       "type": "debit",
       "amount": 2500000,
       "id": 4,
-      "balance": -6000000
+      "balance": -3500000
     }
   ],
   "settings": {
