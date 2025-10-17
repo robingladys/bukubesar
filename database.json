@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "date": "2025-10-17",
+      "description": "Gagzv",
+      "category": "Pembelian Aset",
+      "type": "debit",
+      "amount": 94649494,
+      "id": 1,
+      "balance": 94649494
+    }
+  ],
   "settings": {
     "currency": "IDR",
     "companyName": "Perusahaan Saya"
