@@ -2,21 +2,12 @@
   "transactions": [
     {
       "date": "2025-10-17",
-      "description": "Gaji karyawan",
-      "category": "Biaya Operasional",
-      "type": "credit",
-      "amount": 50000,
-      "id": 1,
-      "balance": -50000
-    },
-    {
-      "date": "2025-10-17",
       "description": "Beli mixer",
       "category": "Pembelian Aset",
       "type": "credit",
       "amount": 6000000,
       "id": 2,
-      "balance": -6050000
+      "balance": -6000000
     }
   ],
   "settings": {
