@@ -2,21 +2,12 @@
   "transactions": [
     {
       "date": "2025-10-17",
-      "description": "Gaji karyawan",
-      "category": "Biaya Operasional",
-      "type": "credit",
-      "amount": 50000,
-      "id": 1,
-      "balance": -50000
-    },
-    {
-      "date": "2025-10-17",
       "description": "Belanja bahan kue",
       "category": "Biaya Operasional",
       "type": "credit",
       "amount": 2500000,
       "id": 2,
-      "balance": -2550000
+      "balance": -2500000
     },
     {
       "date": "2025-10-17",
@@ -25,7 +16,7 @@
       "type": "credit",
       "amount": 6000000,
       "id": 3,
-      "balance": -8550000
+      "balance": -8500000
     },
     {
       "date": "2025-10-17",
@@ -34,7 +25,7 @@
       "type": "debit",
       "amount": 2500000,
       "id": 4,
-      "balance": -6050000
+      "balance": -6000000
     }
   ],
   "settings": {
