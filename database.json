@@ -1,15 +1,5 @@
 {
-  "transactions": [
-    {
-      "date": "2025-10-17",
-      "description": "Beli mixer",
-      "category": "Pembelian Aset",
-      "type": "credit",
-      "amount": 6000000,
-      "id": 2,
-      "balance": -6000000
-    }
-  ],
+  "transactions": [],
   "settings": {
     "currency": "IDR",
     "companyName": "Perusahaan Saya"
