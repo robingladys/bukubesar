@@ -26,6 +26,15 @@
       "amount": 6000000,
       "id": 3,
       "balance": -8550000
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Pesanan nomer 123",
+      "category": "Pendapatan",
+      "type": "debit",
+      "amount": 2500000,
+      "id": 4,
+      "balance": -6050000
     }
   ],
   "settings": {
