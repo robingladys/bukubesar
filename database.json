@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "date": "2025-10-17",
+      "description": "Gaji karyawan",
+      "category": "Biaya Operasional",
+      "type": "credit",
+      "amount": 50000,
+      "id": 1,
+      "balance": -50000
+    }
+  ],
   "settings": {
     "currency": "IDR",
     "companyName": "Perusahaan Saya"
