@@ -8,6 +8,15 @@
       "amount": 50000,
       "id": 1,
       "balance": -50000
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Belanja bahan kue",
+      "category": "Biaya Operasional",
+      "type": "credit",
+      "amount": 2500000,
+      "id": 2,
+      "balance": -2550000
     }
   ],
   "settings": {
