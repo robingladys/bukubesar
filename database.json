@@ -1,15 +1,5 @@
 {
-  "transactions": [
-    {
-      "date": "2025-10-17",
-      "description": "Pesanan nomer 123",
-      "category": "Pendapatan",
-      "type": "debit",
-      "amount": 2500000,
-      "id": 4,
-      "balance": 2500000
-    }
-  ],
+  "transactions": [],
   "settings": {
     "currency": "IDR",
     "companyName": "Perusahaan Saya"
