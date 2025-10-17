@@ -17,6 +17,15 @@
       "amount": 2500000,
       "id": 2,
       "balance": -2550000
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Beli mixer industri",
+      "category": "Pembelian Aset",
+      "type": "credit",
+      "amount": 6000000,
+      "id": 3,
+      "balance": -8550000
     }
   ],
   "settings": {
